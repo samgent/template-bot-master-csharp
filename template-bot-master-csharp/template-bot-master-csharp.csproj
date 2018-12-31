@@ -63,8 +63,7 @@
       <HintPath>..\packages\Microsoft.Bot.Connector.3.14.0.7\lib\net46\Microsoft.Bot.Connector.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Bot.Connector.Teams, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f300afd708cefcd3, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.Bot.Connector.Teams.0.8.0\lib\net46\Microsoft.Bot.Connector.Teams.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Bot.Connector.Teams.0.9.0\lib\net46\Microsoft.Bot.Connector.Teams.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Microsoft.Data.Edm, Version=5.8.4.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
